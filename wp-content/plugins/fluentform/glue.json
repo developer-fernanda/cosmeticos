@@ -1,0 +1,19 @@
+{
+	"plugin_name": "FluentForm",
+	"plugin_slug": "fluentform",
+    "plugin_text_domain": "fluentform",
+    "plugin_version": "4.3.0",
+    "plugin_description": "The most advanced drag and drop form builder plugin for WordPress",
+    "plugin_uri": "https://wpfluentforms.com",
+    "plugin_license": "GPLv2 or later",
+    "author_name": "WPFluentForm Team",
+    "author_email": "support@wpmanageninja.com",
+    "author_uri": "https://wpfluentforms.com",
+    "autoload": {
+		"namespace": "FluentForm",
+		"mapping": {
+			"App": "app",
+			"Framework": "framework"
+		}
+	}
+}

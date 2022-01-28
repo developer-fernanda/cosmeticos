@@ -1,0 +1,10 @@
+<?php
+
+namespace DummyNamespace;
+
+use FluentForm\Framework\Foundation\AppFacade;
+
+class DummyClass extends AppFacade
+{
+	static $key = 'DummyKey';
+}
