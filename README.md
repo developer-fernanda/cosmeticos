@@ -6,25 +6,24 @@
 
 ![Imagem](https://github.com/developer-fernanda/cosmeticos/blob/master/img/1.png)
 
-### Home - Produtos <br> 
+### Loja <br> 
 ![Imagem](https://github.com/developer-fernanda/cosmeticos/blob/master/img/2.png)
 
-### Footer <br> 
+### Produto <br> 
 ![Imagem](https://github.com/developer-fernanda/cosmeticos/blob/master/img/3.png)
 
-### Descrição do produto <br> 
+### Carrinho <br> 
 ![Imagem](https://github.com/developer-fernanda/cosmeticos/blob/master/img/4.png)
 
 ### Carrinho <br> 
 ![Imagem](https://github.com/developer-fernanda/cosmeticos/blob/master/img/5.png)
 
-### Carrinho <br> 
+### Quem Somos <br> 
 ![Imagem](https://github.com/developer-fernanda/cosmeticos/blob/master/img/6.png)
 
-### Quem somos <br> 
+### Contatos <br> 
 ![Imagem](https://github.com/developer-fernanda/cosmeticos/blob/master/img/7.png)
 
-### Contato <br> 
-![Imagem](https://github.com/developer-fernanda/cosmeticos/blob/master/img/8.png)
+
 
 
